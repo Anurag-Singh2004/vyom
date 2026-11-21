@@ -1,0 +1,19 @@
+# Secrets: this file holds API keys and must never be committed
+.env
+
+# Data we can rebuild with scripts (Wikipedia text, chunks, indexes)
+data/
+indexes/
+
+# Saved LLM answers used to make evaluation re-runs cheap
+llm_cache/
+
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Frontend
+node_modules/
+frontend/dist/

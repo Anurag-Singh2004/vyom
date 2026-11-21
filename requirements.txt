@@ -1,0 +1,5 @@
+# Sends HTTP requests to the Wikipedia API
+requests==2.34.2
+
+# Reads the .env file (contact email, API keys)
+python-dotenv==1.2.4

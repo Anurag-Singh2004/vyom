@@ -1,0 +1,8 @@
+# Installs everything the project needs to run
+-r requirements.txt
+
+# Checks code style (CI will run this)
+ruff==0.17.6
+
+# Runs the tests
+pytest==9.2.0
