@@ -1,0 +1,42 @@
+# Seed articles for the Vyom corpus. One Wikipedia title per line.
+# Lines that start with # and empty lines are ignored.
+
+Indian Space Research Organisation
+Indian space programme
+Department of Space
+Chandrayaan-1
+Chandrayaan-2
+Chandrayaan-3
+Vikram (lander)
+Pragyan (rover)
+Mars Orbiter Mission
+Aditya-L1
+AstroSat
+XPoSat
+Gaganyaan
+Indian Human Spaceflight Programme
+Polar Satellite Launch Vehicle
+Geosynchronous Satellite Launch Vehicle
+LVM3
+Small Satellite Launch Vehicle
+Vikas (rocket engine)
+Indian National Satellite System
+Indian Remote Sensing
+Cartosat
+NavIC
+Aryabhata (satellite)
+Mission Shakti
+Vikram Sarabhai
+Satish Dhawan
+A. P. J. Abdul Kalam
+Rakesh Sharma
+Shubhanshu Shukla
+Satish Dhawan Space Centre
+Vikram Sarabhai Space Centre
+U R Rao Satellite Centre
+Liquid Propulsion Systems Centre
+Space Applications Centre
+Thumba Equatorial Rocket Launching Station
+Antrix Corporation
+NewSpace India Limited
+Indian National Space Promotion and Authorisation Centre
